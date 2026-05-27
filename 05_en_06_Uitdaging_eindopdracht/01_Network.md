@@ -5,6 +5,9 @@
 > Maak je documentatie in github
 > TIP: maak een fork van deze github omgeving
 
+
+
+
 ---
 
 # 1. Basisconfiguratie MikroTik
